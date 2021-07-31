@@ -13,7 +13,7 @@ This project is about predicting the forest cover type (the predominant kind of 
 This study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices.
 
 ## Data
-- [Train-dataset)(https://github.com/Malachyiii/W207-Project3/blob/main/train.csv)
+- [Train-dataset](https://github.com/Malachyiii/W207-Project3/blob/main/train.csv)
 
 ## Report/Notebook: 
 - [Final report/Notebook](https://github.com/Malachyiii/W207-Project3/blob/main/forest-cover-type-w207.ipynb)
