@@ -19,3 +19,4 @@ This study area includes four wilderness areas located in the Roosevelt National
 - [Final report/Notebook](https://github.com/Malachyiii/W207-Project3/blob/main/forest-cover-type-w207.ipynb)
 
 ## Presentation
+- [Final presentation](https://github.com/Malachyiii/W207-Project3/blob/main/w207-Final-Project-Presentation.pdf)
