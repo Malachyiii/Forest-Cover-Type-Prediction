@@ -1,4 +1,4 @@
-# W207-Project3
+# Forest Cover Type Prediction
 
 Team:
    - Malachy Moran
